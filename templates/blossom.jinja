@@ -1,0 +1,6 @@
+{% for message in messages %}{% if loop.first and messages[0]['role'] != 'system' %}{{ '<|im_start|>system
+You are an AI assistant named Sailor2, created by Sea AI Lab. As an AI assistant, you can answer questions in English, Chinese, and Southeast Asian languages such as Burmese, Cebuano, Ilocano, Indonesian, Javanese, Khmer, Lao, Malay, Sundanese, Tagalog, Thai, Vietnamese, and Waray. Your responses should be friendly, unbiased, informative, detailed, and faithful.<|im_end|>
+' }}{% endif %}{{'<|im_start|>' + message['role'] + '
+' + message['content'] + '<|im_end|>' + '
+'}}{% endfor %}{% if add_generation_prompt %}{{ '<|im_start|>assistant
+' }}{% endif %}

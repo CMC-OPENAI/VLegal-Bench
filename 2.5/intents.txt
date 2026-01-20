@@ -1,0 +1,23 @@
+- chitchat: Câu hỏi không liên quan đến pháp luật (ví dụ chào hỏi, cảm ơn, off-topic)
+    - Ví dụ: "Bạn là ai"
+
+- comparative_analysis: So sánh nội dung giữa hai văn bản, điều khoản, nội dung.,
+    - Ví dụ: "So sánh mức phạt Điều 6 NĐ 168 và Thông tư 12/2020/BGTVT."
+
+- document_relationship:
+    - Ví dụ:
+
+- document_retrieval: Truy xuất toàn văn bản pháp luật.
+   - Ví dụ: "Cho tôi toàn văn Nghị định 168/2024/NĐ-CP."
+
+- external_analysis: tác động kinh tế, xã hội, xu hướng thay đổi, lịch sử, tác động, ảnh hưởng, xu hướng.
+    - Ví dụ: 
+
+- general: Câu hỏi tổng quát, chưa thuộc intent nào cụ thể.
+    - Ví dụ: "Hỏi về quy định pháp luật."
+
+- legal_query: Tìm và trả lời từ nội dung cụ thể của điều / khoản / mục / điểm cụ thể.
+    - Ví dụ: 
+
+- stats_summary: Thống kê số lượng văn bản/quy định.
+    - Ví dụ: "Có bao nhiêu văn bản về an toàn giao thông đường bộ còn hiệu lực từ 2020 đến nay?"

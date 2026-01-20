@@ -1,0 +1,34 @@
+[project]
+name = "LLM_benchmark"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "accelerate>=1.11.0",
+    "dotenv>=0.9.9",
+    "nltk>=3.9.2",
+    "rouge-score>=0.1.2",
+    "torch>=2.9.0",
+    "tokenizers==0.22.1",
+    "transformers>=4.57.3",
+    "vllm>=0.11.2",
+    "ray>=2.52.1",
+    "rich-toolkit>=0.17.0",
+    "rpds-py>=0.30.0",
+    "anyio>=4.12.0",
+    "xformers==0.0.33.post1",
+    "langchain>=1.1.0",
+    "langchain-core>=1.1.0",
+    "langchain-openai>=1.1.0",
+    "langgraph>=1.0.4",
+    "elasticsearch==8.14.0",
+    "esclient>=0.5.8",
+    "pydantic>=2.12.5",
+]
+
+[dependency-groups]
+dev = [
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+]

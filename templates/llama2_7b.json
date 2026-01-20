@@ -1,0 +1,18 @@
+{
+  "type": "chat_template",
+  "template": [
+    {
+      "role": "system",
+      "format": "<<SYS>>\n{{content}}\n<</SYS>>\n"
+    },
+    {
+      "role": "user",
+      "format": "{{bos_token}}[INST] {{content}} [/INST]"
+    },
+    {
+      "role": "assistant",
+      "format": " {{content}}{{eos_token}}"
+    }
+  ],
+  "system_in_first_user_message": true
+}
