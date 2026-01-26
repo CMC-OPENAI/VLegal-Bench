@@ -1,0 +1,52 @@
+DATASET LICENSE AGREEMENT
+
+Copyright © 2025 VLegal-Bench/ CMC-OpenAI
+
+This dataset is licensed under the Creative Commons
+Attribution–NonCommercial–NoDerivatives 4.0 International License
+(CC BY-NC-ND 4.0).
+
+Official license text:
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+────────────────────────────────────────────
+
+TERMS OF USE
+
+You are permitted to:
+- Download and use the dataset for personal, educational, and research purposes
+- Share the original, unmodified dataset with others
+
+You are strictly prohibited from:
+- Modifying, transforming, translating, or creating derivative works from this dataset
+- Using this dataset for any commercial purpose
+- Claiming ownership of this dataset
+- Registering copyright or intellectual property rights over this dataset
+- Re-licensing or redistributing this dataset under your own name or organization
+
+────────────────────────────────────────────
+
+ATTRIBUTION REQUIREMENT
+
+Any use of this dataset must include clear credit to the original author:
+
+Required attribution format:
+
+"Dataset created by CMC-OpenAI"
+
+────────────────────────────────────────────
+
+LEGAL NOTICE
+
+This dataset is provided "AS IS", without warranty of any kind.
+The author shall not be liable for any damages arising from the use of this dataset.
+
+Any violation of these terms automatically terminates your permission to use this dataset.
+
+────────────────────────────────────────────
+
+CONTACT
+
+For special permissions or commercial licensing, contact:
+technicaldept@cmcai.vn
+
